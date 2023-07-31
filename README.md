@@ -1,4 +1,1 @@
-# Custom domain website
-*By LPM* 
-
-See website at https://luisthetutor.me/
+See website at https://lperezmo.github.io/
